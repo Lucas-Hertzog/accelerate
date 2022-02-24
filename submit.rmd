@@ -1,0 +1,16 @@
+---
+title: "Untitled"
+author: "Lucas Hertzog"
+date: "22/02/2022"
+output: html_document
+---
+
+```{r}
+ fileInput("file", label = h3("Submit your study's results to join our database")),
+  
+  hr(),
+  fluidRow(column(4, verbatimTextOutput("file")))
+  
+)
+```
+

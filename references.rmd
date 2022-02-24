@@ -1,0 +1,43 @@
+---
+title: "Untitled"
+author: "Lucas Hertzog"
+date: "22/02/2022"
+output: html_document
+---
+
+### Burkina Faso
+[Leyla Ismayilova & Leyla Karimli, 2020](https://www.tandfonline.com/doi/abs/10.1080/15374416.2018.1485103)
+
+### Ethiopia
+[William Rudgard et al., 2022](https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=3880619)
+
+### Kenya
+[Orkin et al., 2020](https://doi.org/10.1257/rct.996-12.2)
+
+### Malawi
+[Mebrahtu et al., 2021](https://doi.org/10.1111/cch.12948)
+
+### Nigeria
+[Tamambang et. al, under review]
+
+### Sierra Leone
+[Bandiera et. al, 2019](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3344844)
+
+### South Africa
+[Cluver et. al, 2019](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642%2819%2930033-1/fulltext)
+
+[Haag et. al, 2022](https://ideas.repec.org/a/eee/wdevel/v151y2022ics0305750x21003545.html)
+
+[Hertzog et. al, under review]
+
+[Meinck et. al, 2021](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-021-02137-8)
+
+### Uganda
+[Bandiera et. al, 2020](https://www.aeaweb.org/articles?id=10.1257/app.20170416)
+
+### Zambia
+[Chipanta et. al, in-press]
+
+### Zimbabwe
+[Dunbar et. al, 2014] (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113621)
+

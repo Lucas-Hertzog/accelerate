@@ -1,0 +1,10 @@
+---
+title: "contact"
+author: "Lucas Hertzog"
+date: "22/02/2022"
+output: html_document
+---
+
+## Contact us
+
+[dashboard@acceleratehub.org](dashboard@acceleratehub.org)
